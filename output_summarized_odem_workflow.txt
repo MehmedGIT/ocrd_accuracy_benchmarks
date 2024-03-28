@@ -1,0 +1,288 @@
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0007.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0007.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0007.xml",
+
+    "cer": 0.2189119170984456,
+    "wer": 0.628099173553719,
+
+
+    "n_characters": 772,
+    "n_words": 121
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0008.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0008.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0008.xml",
+
+    "cer": 0.8439716312056738,
+    "wer": 0.9254658385093167,
+
+
+    "n_characters": 987,
+    "n_words": 161
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0009.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0009.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0009.xml",
+
+    "cer": 0.16428571428571428,
+    "wer": 0.4225352112676056,
+
+
+    "n_characters": 980,
+    "n_words": 142
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0007.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0007.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0007.xml",
+
+    "cer": 0.3671274961597542,
+    "wer": 0.6504854368932039,
+
+
+    "n_characters": 651,
+    "n_words": 103
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0013.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0013.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0013.xml",
+
+    "cer": 0.22093023255813954,
+    "wer": 0.5631067961165048,
+
+
+    "n_characters": 688,
+    "n_words": 103
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0014.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0014.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0014.xml",
+
+    "cer": 0.09259259259259259,
+    "wer": 0.3644067796610169,
+
+
+    "n_characters": 810,
+    "n_words": 118
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 0.15868263473053892,
+    "wer": 0.4424778761061947,
+
+
+    "n_characters": 668,
+    "n_words": 113
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0002.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0002.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0002.xml",
+
+    "cer": 0.2714285714285714,
+    "wer": 0.4803921568627451,
+
+
+    "n_characters": 630,
+    "n_words": 102
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0003.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0003.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0003.xml",
+
+    "cer": 0.7793764988009593,
+    "wer": 0.91,
+
+
+    "n_characters": 1668,
+    "n_words": 300
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0007.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0007.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0007.xml",
+
+    "cer": 0.22304526748971193,
+    "wer": 0.7718446601941747,
+
+
+    "n_characters": 1215,
+    "n_words": 206
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0021.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0021.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0021.xml",
+
+    "cer": 0.24294670846394983,
+    "wer": 0.7541666666666667,
+
+
+    "n_characters": 1276,
+    "n_words": 240
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0029.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0029.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0029.xml",
+
+    "cer": 0.17335473515248795,
+    "wer": 0.5391705069124424,
+
+
+    "n_characters": 1246,
+    "n_words": 217
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/17_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 0.1404786680541103,
+    "wer": 0.5732484076433121,
+
+
+    "n_characters": 961,
+    "n_words": 157
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/17_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0002.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0002.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0002.xml",
+
+    "cer": 0.17972350230414746,
+    "wer": 0.4827586206896552,
+
+
+    "n_characters": 868,
+    "n_words": 145
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/17_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0003.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0003.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0003.xml",
+
+    "cer": 0.11525129982668977,
+    "wer": 0.39664804469273746,
+
+
+    "n_characters": 1154,
+    "n_words": 179
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/18_fontmix_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 0.4777777777777778,
+    "wer": 0.6642335766423357,
+
+
+    "n_characters": 900,
+    "n_words": 137
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/18_fontmix_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0002.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0002.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0002.xml",
+
+    "cer": 0.09402390438247012,
+    "wer": 0.3620689655172414,
+
+
+    "n_characters": 1255,
+    "n_words": 174
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/18_fontmix_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0003.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0003.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0003.xml",
+
+    "cer": 0.16526845637583892,
+    "wer": 0.4134078212290503,
+
+
+    "n_characters": 1192,
+    "n_words": 179
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/18_fontmix_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0004.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0004.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0004.xml",
+
+    "cer": 0.09869494290375204,
+    "wer": 0.291005291005291,
+
+
+    "n_characters": 1226,
+    "n_words": 189
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/18_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 0.04239401496259352,
+    "wer": 0.16393442622950818,
+
+
+    "n_characters": 401,
+    "n_words": 61
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/19_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 0.05368421052631579,
+    "wer": 0.14666666666666667,
+
+
+    "n_characters": 950,
+    "n_words": 150
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/19_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0002.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0002.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0002.xml",
+
+    "cer": 0.03415154749199573,
+    "wer": 0.0962962962962963,
+
+
+    "n_characters": 937,
+    "n_words": 135
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/19_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0003.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0003.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0003.xml",
+
+    "cer": 0.2227432590855803,
+    "wer": 0.5153846153846153,
+
+
+    "n_characters": 853,
+    "n_words": 130
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/19_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 0.04627006610009443,
+    "wer": 0.18518518518518517,
+
+
+    "n_characters": 1059,
+    "n_words": 189
+}

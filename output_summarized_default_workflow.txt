@@ -1,0 +1,288 @@
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0007.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0007.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0007.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 772,
+    "n_words": 121
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0008.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0008.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0008.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 987,
+    "n_words": 161
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0009.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0009.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0009.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 980,
+    "n_words": 142
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0007.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0007.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0007.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 651,
+    "n_words": 103
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0013.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0013.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0013.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 688,
+    "n_words": 103
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0014.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0014.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0014.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 810,
+    "n_words": 118
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 668,
+    "n_words": 113
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0002.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0002.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0002.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 630,
+    "n_words": 102
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0003.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0003.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0003.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 1668,
+    "n_words": 300
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0007.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0007.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0007.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 1215,
+    "n_words": 206
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0021.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0021.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0021.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 1276,
+    "n_words": 240
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/16_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0029.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0029.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0029.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 1246,
+    "n_words": 217
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/17_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 961,
+    "n_words": 157
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/17_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0002.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0002.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0002.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 868,
+    "n_words": 145
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/17_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0003.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0003.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0003.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 1154,
+    "n_words": 179
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/18_fontmix_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 900,
+    "n_words": 137
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/18_fontmix_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0002.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0002.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0002.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 1255,
+    "n_words": 174
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/18_fontmix_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0003.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0003.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0003.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 1192,
+    "n_words": 179
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/18_fontmix_complex.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0004.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0004.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0004.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 1226,
+    "n_words": 189
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/18_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 401,
+    "n_words": 61
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/19_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 950,
+    "n_words": 150
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/19_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0002.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0002.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0002.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 937,
+    "n_words": 135
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/19_ant_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0003.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0003.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0003.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 853,
+    "n_words": 130
+}
+/home/mm/Desktop/accuracy_benchmarking/workspaces/19_frak_simple.ocrd/data/OCR-D-EVAL-SEG-LINE/OCR-D-EVAL-SEG-LINE_0001.json
+{
+    "gt": "OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001.xml",
+    "ocr": "OCR-D-OCR/OCR-D-OCR_0001.xml",
+
+    "cer": 1.0,
+    "wer": 1.0,
+
+
+    "n_characters": 1059,
+    "n_words": 189
+}
