@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <pc:Metadata>
+        <pc:Creator>OCR-D</pc:Creator>
+        <pc:Created>2016-09-22T09:17:50</pc:Created>
+        <pc:LastChange>2019-11-26T09:54:43</pc:LastChange>
+    </pc:Metadata>
+    <pc:Page imageFilename="OCR-D-IMG/OCR-D-IMG_0021.tif" imageWidth="1584" imageHeight="2320" imageXResolution="300." imageYResolution="300." type="content">
+        <pc:Border>
+            <pc:Coords points="117,94 1262,100 1260,1851 113,1851"/>
+        </pc:Border>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+                <pc:RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <pc:RegionRefIndexed index="1" regionRef="r_1_2"/>
+                <pc:RegionRefIndexed index="2" regionRef="r_1_3"/>
+                <pc:RegionRefIndexed index="3" regionRef="r_1_4"/>
+                <pc:RegionRefIndexed index="4" regionRef="r_1_5"/>
+                <pc:RegionRefIndexed index="5" regionRef="r_1_6"/>
+                <pc:RegionRefIndexed index="6" regionRef="r_1_7"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="r_1_1" type="page-number">
+            <pc:Coords points="902,108 962,108 962,151 902,151"/>
+            <pc:TextLine id="tl_1" primaryLanguage="German">
+                <pc:Coords points="903,109 961,109 961,150 903,150"/>
+                <pc:Baseline points="903,156 961,156"/>
+                <pc:Word id="w_w1aab1b1b2b1b1ab1">
+                    <pc:Coords points="903,109 960,109 960,150 903,150"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>iv.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>iv.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>iv.</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r_1_2" type="paragraph">
+            <pc:Coords points="144,209 1181,209 1181,338 144,338"/>
+            <pc:TextLine id="tl_2" primaryLanguage="German">
+                <pc:Coords points="145,210 1180,210 1180,288 145,288"/>
+                <pc:Baseline points="145,279 1180,279"/>
+                <pc:Word id="w_w1aab1b1b2b3b1ab1">
+                    <pc:Coords points="146,211 559,211 559,267 146,267"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>das gemecht damit</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b3b1ac33">
+                    <pc:Coords points="577,217 788,217 788,277 577,277"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>geweſchen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b3b1ac55">
+                    <pc:Coords points="804,225 1040,225 1040,285 804,285"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bnimpt dz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b3b1ac73">
+                    <pc:Coords points="1055,234 1180,234 1180,281 1055,281"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ragen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>das gemecht damit geweſchen bnimpt dz ragen</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_3" primaryLanguage="German">
+                <pc:Coords points="147,268 1173,268 1173,337 147,337"/>
+                <pc:Baseline points="147,331 1173,331"/>
+                <pc:Word id="word_1483345889872_87">
+                    <pc:Coords points="217,325 147,325 147,268 217,268"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>der</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345889871_86">
+                    <pc:Coords points="414,325 217,325 217,268 414,268"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gemecht.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b3b3ac25">
+                    <pc:Coords points="950,289 1173,289 1173,334 950,334"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Betonica.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>der gemecht. Betonica.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>das gemecht damit geweſchen bnimpt dz ragen
+der gemecht. Betonica.</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r_1_3" type="heading">
+            <pc:Coords points="383,325 1002,325 1002,395 383,395"/>
+            <pc:TextLine id="tl_4" primaryLanguage="German">
+                <pc:Coords points="384,326 1001,326 1001,394 384,394"/>
+                <pc:Baseline points="384,389 1001,389"/>
+                <pc:Word id="w_w1aab1b1b2b5b1ab1">
+                    <pc:Coords points="384,336 493,336 493,382 384,382"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wer</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345903936_89">
+                    <pc:Coords points="656,389 502,389 502,330 656,330"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>hubſch</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345907576_91">
+                    <pc:Coords points="734,389 656,389 656,330 734,330"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>har</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345907575_90">
+                    <pc:Coords points="849,389 734,389 734,330 849,330"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>woͤll</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b5b1ac39">
+                    <pc:Coords points="856,335 1000,335 1000,387 856,387"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>haben.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Wer hubſch har woͤll haben.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>Wer hubſch har woͤll haben.</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r_1_4" type="paragraph">
+            <pc:Coords points="135,375 1178,375 1178,1121 135,1121"/>
+            <pc:TextLine id="tl_5" primaryLanguage="German">
+                <pc:Coords points="148,376 1176,376 1176,455 148,455"/>
+                <pc:Baseline points="148,445 1176,445"/>
+                <pc:Word id="w_w1aab1b1b2b7b1ab1">
+                    <pc:Coords points="148,376 282,376 282,431 148,431"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Jtem</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b1ac11">
+                    <pc:Coords points="290,385 415,385 415,432 290,432"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>trinck</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b1ac27">
+                    <pc:Coords points="420,404 522,404 522,435 420,435"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>wein</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b1ac35">
+                    <pc:Coords points="529,392 586,392 586,433 529,433"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ab</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b1ac41">
+                    <pc:Coords points="594,392 771,392 771,433 594,433"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>betonien</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b1ac59">
+                    <pc:Coords points="779,390 823,390 823,445 779,445"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſo</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b1ac65">
+                    <pc:Coords points="831,398 941,398 941,437 831,437"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>würt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b1ac75">
+                    <pc:Coords points="947,399 1012,399 1012,443 947,443"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dir</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b1b1b1">
+                    <pc:Coords points="1021,404 1089,404 1089,445 1021,445"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ein</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b1b1b9">
+                    <pc:Coords points="1093,410 1175,410 1175,454 1093,454"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gůt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Jtem trinck wein ab betonien ſo würt dir ein gůt</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_6" primaryLanguage="German">
+                <pc:Coords points="148,434 1177,434 1177,512 148,512"/>
+                <pc:Baseline points="148,501 1177,501"/>
+                <pc:Word id="word_1483345927528_93">
+                    <pc:Coords points="238,499 148,499 148,435 238,435"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>farb</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345927527_92">
+                    <pc:Coords points="396,499 238,499 238,435 396,435"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſpꝛichet</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b3ac25">
+                    <pc:Coords points="404,448 576,448 576,502 404,502"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Plinius</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345953560_99">
+                    <pc:Coords points="678,500 595,500 595,442 678,442"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>wer</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345953559_98">
+                    <pc:Coords points="728,500 678,500 678,442 728,442"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſy</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345942016_97">
+                    <pc:Coords points="806,500 728,500 728,442 806,442"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bey</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345942015_96">
+                    <pc:Coords points="877,500 806,500 806,442 877,442"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>jm</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345973616_101">
+                    <pc:Coords points="996,500 895,500 895,453 996,453"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345973615_100">
+                    <pc:Coords points="1049,500 996,500 996,453 1049,453"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b3b1b1">
+                    <pc:Coords points="1066,465 1177,465 1177,511 1066,511"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>mag</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>farb ſpꝛichet Plinius wer ſy bey jm dē dē mag</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_7" primaryLanguage="German">
+                <pc:Coords points="146,484 1175,484 1175,568 146,568"/>
+                <pc:Baseline points="146,556 1175,556"/>
+                <pc:Word id="w_w1aab1b1b2b7b5ab1">
+                    <pc:Coords points="146,487 233,487 233,538 146,538"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>kein</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345984391_103">
+                    <pc:Coords points="424,559 241,559 241,498 424,498"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>zouberey</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345999752_105">
+                    <pc:Coords points="661,559 424,559 424,498 661,498"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>geſchaden</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483345999751_104">
+                    <pc:Coords points="741,559 661,559 661,498 741,498"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Es</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b5b1b1">
+                    <pc:Coords points="750,492 796,492 796,558 750,558"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>iſt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346020943_107">
+                    <pc:Coords points="912,556 805,556 805,498 912,498"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>auch</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346020943_106">
+                    <pc:Coords points="996,556 912,556 912,498 996,498"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gůt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346030457_109">
+                    <pc:Coords points="1075,563 1005,563 1005,504 1075,504"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>für</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346030455_108">
+                    <pc:Coords points="1175,563 1075,563 1075,504 1175,504"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gift.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>kein zouberey geſchaden Es iſt auch gůt für gift.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_8" primaryLanguage="German">
+                <pc:Coords points="142,544 1175,544 1175,622 142,622"/>
+                <pc:Baseline points="142,611 1175,611"/>
+                <pc:Word id="w_w1aab1b1b2b7b7ab1">
+                    <pc:Coords points="142,548 256,548 256,598 142,598"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b7b1b3">
+                    <pc:Coords points="265,566 339,566 339,596 265,596"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>wer</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b7b1c11">
+                    <pc:Coords points="348,568 412,568 412,599 348,599"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ein</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b7b1c17">
+                    <pc:Coords points="422,557 544,557 544,613 422,613"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>boͤſen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b7b1c29">
+                    <pc:Coords points="553,562 711,562 711,608 553,608"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>magen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346041480_111">
+                    <pc:Coords points="799,610 720,610 720,551 799,551"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>hat</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346041479_110">
+                    <pc:Coords points="908,610 799,610 799,551 908,551"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>leber</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b7b1c61">
+                    <pc:Coords points="918,570 979,570 979,605 918,605"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vñ</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b7b1c67">
+                    <pc:Coords points="988,560 1098,560 1098,613 988,613"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>miltz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b7b1c79">
+                    <pc:Coords points="1105,565 1174,565 1174,611 1105,611"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>der</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Vnd wer ein boͤſen magen hat leber vñ miltz der</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_9" primaryLanguage="German">
+                <pc:Coords points="144,602 1176,602 1176,674 144,674"/>
+                <pc:Baseline points="144,666 1176,666"/>
+                <pc:Word id="w_w1aab1b1b2b7b9ab1">
+                    <pc:Coords points="144,614 253,614 253,657 144,657"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>mag</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b9ab9">
+                    <pc:Coords points="262,608 433,608 433,653 262,653"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>trincken</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346053400_113">
+                    <pc:Coords points="498,657 441,657 441,611 498,611"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ab</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346053399_112">
+                    <pc:Coords points="598,657 498,657 498,611 598,611"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dem</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b9ac39">
+                    <pc:Coords points="615,611 740,611 740,657 615,657"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>kraut</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b9ac51">
+                    <pc:Coords points="748,613 845,613 845,667 748,667"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>alſo</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b9ac61">
+                    <pc:Coords points="857,615 906,615 906,666 857,666"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7b9ac67">
+                    <pc:Coords points="912,615 993,615 993,663 912,663"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dar</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346064992_115">
+                    <pc:Coords points="1099,673 1009,673 1009,614 1099,614"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346064991_114">
+                    <pc:Coords points="1176,673 1099,673 1099,614 1176,614"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ge/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>mag trincken ab dem kraut alſo dz dar vnd ge/</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_10" primaryLanguage="German">
+                <pc:Coords points="141,650 1174,650 1174,732 141,732"/>
+                <pc:Baseline points="141,719 1174,719"/>
+                <pc:Word id="w_w1aab1b1b2b7c11ab1">
+                    <pc:Coords points="142,662 290,662 290,712 142,712"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>miſcht</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c11ac19">
+                    <pc:Coords points="301,668 410,668 410,702 301,702"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>werd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c11ac33">
+                    <pc:Coords points="420,675 551,675 551,714 420,714"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>wenig</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346075295_117">
+                    <pc:Coords points="674,720 560,720 560,665 674,665"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>eſſich</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346075295_116">
+                    <pc:Coords points="766,720 674,720 674,665 766,665"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c11b2b1">
+                    <pc:Coords points="784,658 905,658 905,721 784,721"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>honig</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c11b2c21">
+                    <pc:Coords points="907,663 983,673 983,727 912,716"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>diß</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346086111_119">
+                    <pc:Coords points="1100,730 997,730 997,673 1100,673"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>alſo</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346086111_118">
+                    <pc:Coords points="1174,730 1100,730 1100,673 1174,673"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ge/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>miſcht werd wenig eſſich vnd honig diß alſo ge/</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_11" primaryLanguage="German">
+                <pc:Coords points="142,708 1173,708 1173,792 142,792"/>
+                <pc:Baseline points="142,779 1173,779"/>
+                <pc:Word id="w_w1aab1b1b2b7c13ab1">
+                    <pc:Coords points="142,710 304,710 304,758 142,758"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>trūncken</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c13ac17">
+                    <pc:Coords points="312,724 357,724 357,758 312,758"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>es</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c13ac23">
+                    <pc:Coords points="366,711 522,711 522,775 366,775"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>hilft: es</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c13b1b1">
+                    <pc:Coords points="532,721 575,721 575,782 532,782"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>iſt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346098783_121">
+                    <pc:Coords points="689,781 583,781 583,719 689,719"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>auch</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346106287_123">
+                    <pc:Coords points="771,781 689,781 689,719 771,719"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gůt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346109987_125">
+                    <pc:Coords points="879,781 771,781 771,719 879,719"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>denē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346109986_124">
+                    <pc:Coords points="944,781 879,781 879,719 944,719"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>die</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c13b2c33">
+                    <pc:Coords points="955,725 1052,725 1052,777 955,777"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>blůt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c13b2c43">
+                    <pc:Coords points="1060,732 1173,732 1173,790 1060,790"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>speyē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>trūncken es hilft: es iſt auch gůt denē die blůt speyē</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_12" primaryLanguage="German">
+                <pc:Coords points="184,771 1171,771 1171,850 184,850"/>
+                <pc:Baseline points="184,839 1171,839"/>
+                <pc:Word id="w_w1aab1b1b2b7c15ab1">
+                    <pc:Coords points="184,774 293,774 293,820 184,820"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Wer</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346141735_127">
+                    <pc:Coords points="368,839 302,839 302,774 368,774"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ein</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346145841_129">
+                    <pc:Coords points="449,839 368,839 368,774 449,774"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gůt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346145840_128">
+                    <pc:Coords points="702,839 449,839 449,774 702,774"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gedechtnüß</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346165048_131">
+                    <pc:Coords points="820,835 711,835 711,782 820,782"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>woͤll</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346165047_130">
+                    <pc:Coords points="921,835 820,835 820,782 921,782"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>han.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c15ac61">
+                    <pc:Coords points="945,790 1170,790 1170,849 945,849"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Bugloſſa.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Wer ein gůt gedechtnüß woͤll han. Bugloſſa.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_13" primaryLanguage="German">
+                <pc:Coords points="137,822 1171,822 1171,904 137,904"/>
+                <pc:Baseline points="137,894 1171,894"/>
+                <pc:Word id="w_w1aab1b1b2b7c17ab1">
+                    <pc:Coords points="137,822 256,822 256,872 137,872"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Jtem</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c17ac11">
+                    <pc:Coords points="266,842 350,842 350,872 266,872"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>wer</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346182400_133">
+                    <pc:Coords points="609,890 357,890 357,831 609,831"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ochſenzung</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346182399_132">
+                    <pc:Coords points="662,890 609,890 609,831 662,831"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c17ac45">
+                    <pc:Coords points="670,838 797,838 797,886 670,886"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>kraut</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346192103_135">
+                    <pc:Coords points="927,900 805,900 805,841 927,841"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>beyſſt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346192103_134">
+                    <pc:Coords points="979,900 927,900 927,841 979,841"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>in</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c17ac73">
+                    <pc:Coords points="988,858 1091,858 1091,891 988,891"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>wein</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c17b1b1">
+                    <pc:Coords points="1106,859 1170,859 1170,894 1106,894"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vñ</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Jtem wer ochſenzung dz kraut beyſſt in wein vñ</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_14" primaryLanguage="German">
+                <pc:Coords points="136,876 1170,876 1170,955 136,955"/>
+                <pc:Baseline points="136,945 1170,945"/>
+                <pc:Word id="word_1483346202984_137">
+                    <pc:Coords points="318,934 137,934 137,880 318,880"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>darnoch</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346202983_136">
+                    <pc:Coords points="466,934 318,934 318,880 466,880"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>trinckt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346214120_139">
+                    <pc:Coords points="551,937 484,937 484,893 551,893"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>der</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346214119_138">
+                    <pc:Coords points="718,937 551,937 551,893 718,893"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gewint</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346223287_141">
+                    <pc:Coords points="801,947 734,947 734,896 801,896"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ein</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346223286_140">
+                    <pc:Coords points="905,947 801,947 801,896 905,896"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gůte</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c19b1c17">
+                    <pc:Coords points="914,900 1170,900 1170,955 914,955"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gedechtnüß</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>darnoch trinckt der gewint ein gůte gedechtnüß</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_15" primaryLanguage="German">
+                <pc:Coords points="138,932 1166,932 1166,1005 138,1005"/>
+                <pc:Baseline points="138,995 1166,995"/>
+                <pc:Word id="w_w1aab1b1b2b7c21ab1">
+                    <pc:Coords points="138,935 215,935 215,978 138,978"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Es</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c21ab7">
+                    <pc:Coords points="225,938 355,938 355,993 225,993"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſterckt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346233959_143">
+                    <pc:Coords points="465,990 364,990 364,940 465,940"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>auch</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346233959_142">
+                    <pc:Coords points="552,990 465,990 465,940 552,940"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>das</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c21ac39">
+                    <pc:Coords points="561,937 658,937 658,988 561,988"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>hertz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c21b1b1">
+                    <pc:Coords points="665,951 757,951 757,985 665,985"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346258752_145">
+                    <pc:Coords points="907,997 766,997 766,949 907,949"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>macht</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346258751_144">
+                    <pc:Coords points="987,997 907,997 907,949 987,949"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gůt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c21b2b3">
+                    <pc:Coords points="996,949 1096,949 1096,993 996,993"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>blůt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c21b2c13">
+                    <pc:Coords points="1104,965 1166,965 1166,995 1104,995"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vñ</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Es ſterckt auch das hertz vnd macht gůt blůt vñ</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_16" primaryLanguage="German">
+                <pc:Coords points="137,983 1167,983 1167,1059 137,1059"/>
+                <pc:Baseline points="137,1048 1167,1048"/>
+                <pc:Word id="word_1483346270183_147">
+                    <pc:Coords points="262,1046 137,1046 137,983 262,983"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>heilet</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346273559_149">
+                    <pc:Coords points="371,1046 262,1046 262,983 371,983"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>auch</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346276472_151">
+                    <pc:Coords points="458,1046 371,1046 371,983 458,983"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>das</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346279559_153">
+                    <pc:Coords points="561,1046 458,1046 458,983 561,983"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>hertz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346279559_152">
+                    <pc:Coords points="727,1046 561,1046 561,983 727,983"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>geſperꝛ.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346313519_155">
+                    <pc:Coords points="866,1056 751,1056 751,993 866,993"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Das</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346316608_157">
+                    <pc:Coords points="953,1056 866,1056 866,993 953,993"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſaft</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346316607_156">
+                    <pc:Coords points="1167,1056 953,1056 953,993 1167,993"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>getrunckē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>heilet auch das hertz geſperꝛ. Das ſaft getrunckē</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_17" primaryLanguage="German">
+                <pc:Coords points="136,1036 1145,1036 1145,1120 136,1120"/>
+                <pc:Baseline points="136,1106 1145,1106"/>
+                <pc:Word id="w_w1aab1b1b2b7c25ab1">
+                    <pc:Coords points="136,1049 211,1049 211,1085 136,1085"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>mit</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c25ab9">
+                    <pc:Coords points="221,1054 383,1054 383,1086 221,1086"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>warmē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c25ac21">
+                    <pc:Coords points="393,1044 535,1044 535,1102 393,1102"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>waſſer</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c25ac33">
+                    <pc:Coords points="543,1041 642,1041 642,1100 543,1100"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>hilft</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346333496_159">
+                    <pc:Coords points="722,1115 650,1115 650,1049 722,1049"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>für</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346344432_161">
+                    <pc:Coords points="774,1115 722,1115 722,1049 774,1049"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346344431_160">
+                    <pc:Coords points="1008,1115 774,1115 774,1049 1008,1049"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>geſchwellē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c25ac73">
+                    <pc:Coords points="1017,1053 1044,1053 1044,1106 1017,1106"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ȣ</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b7c25ac77">
+                    <pc:Coords points="1053,1060 1144,1060 1144,1119 1053,1119"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>fuͤß.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>mit warmē waſſer hilft für dz geſchwellē ȣ fuͤß.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>Jtem trinck wein ab betonien ſo würt dir ein gůt
+farb ſpꝛichet Plinius wer ſy bey jm dē dē mag
+kein zouberey geſchaden Es iſt auch gůt für gift.
+Vnd wer ein boͤſen magen hat leber vñ miltz der
+mag trincken ab dem kraut alſo dz dar vnd ge/
+miſcht werd wenig eſſich vnd honig diß alſo ge/
+trūncken es hilft: es iſt auch gůt denē die blůt speyē
+Wer ein gůt gedechtnüß woͤll han. Bugloſſa.
+Jtem wer ochſenzung dz kraut beyſſt in wein vñ
+darnoch trinckt der gewint ein gůte gedechtnüß
+Es ſterckt auch das hertz vnd macht gůt blůt vñ
+heilet auch das hertz geſperꝛ. Das ſaft getrunckē
+mit warmē waſſer hilft für dz geſchwellē ȣ fuͤß.</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r_1_5" type="paragraph">
+            <pc:Coords points="126,1102 1165,1102 1165,1512 126,1512"/>
+            <pc:TextLine id="tl_18" primaryLanguage="German">
+                <pc:Coords points="373,1103 1164,1103 1164,1171 373,1171"/>
+                <pc:Baseline points="373,1165 1164,1165"/>
+                <pc:Word id="word_1483346396864_163">
+                    <pc:Coords points="506,1165 374,1165 374,1105 506,1105"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Was</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346404496_165">
+                    <pc:Coords points="596,1165 506,1165 506,1105 596,1105"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>den</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346410975_167">
+                    <pc:Coords points="712,1165 596,1165 596,1105 712,1105"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>durſt.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346410975_166">
+                    <pc:Coords points="827,1165 712,1165 712,1105 827,1105"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>nem.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b1ac33">
+                    <pc:Coords points="944,1116 1164,1116 1164,1161 944,1161"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Borberis.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Was den durſt. nem. Borberis.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_19" primaryLanguage="German">
+                <pc:Coords points="134,1152 1161,1152 1161,1226 134,1226"/>
+                <pc:Baseline points="134,1219 1161,1219"/>
+                <pc:Word id="w_w1aab1b1b2b9b3ab1">
+                    <pc:Coords points="134,1152 263,1152 263,1208 134,1208"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Jtem</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b3ac11">
+                    <pc:Coords points="272,1162 378,1162 378,1216 272,1216"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>neüß</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b3ac23">
+                    <pc:Coords points="387,1160 550,1160 550,1217 387,1217"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>pferſich</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b3ac41">
+                    <pc:Coords points="563,1163 603,1163 603,1216 563,1216"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſo</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b3ac47">
+                    <pc:Coords points="620,1162 796,1162 796,1217 620,1217"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>benimpt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b3ac61">
+                    <pc:Coords points="811,1178 850,1178 850,1207 811,1207"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>er</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b3ac67">
+                    <pc:Coords points="858,1166 936,1166 936,1212 858,1212"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>den</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b3ac75">
+                    <pc:Coords points="953,1167 1063,1167 1063,1224 953,1224"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>durſt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b3ac87">
+                    <pc:Coords points="1072,1176 1161,1176 1161,1217 1072,1217"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Jtem neüß pferſich ſo benimpt er den durſt vnd</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_20" primaryLanguage="German">
+                <pc:Coords points="130,1210 1161,1210 1161,1285 130,1285"/>
+                <pc:Baseline points="130,1273 1161,1273"/>
+                <pc:Word id="word_1483346449728_169">
+                    <pc:Coords points="264,1264 130,1264 130,1210 264,1210"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>sterckt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346449727_168">
+                    <pc:Coords points="318,1264 264,1264 264,1210 318,1210"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b5ac19">
+                    <pc:Coords points="328,1217 576,1217 576,1271 328,1271"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>magen|vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b5ac39">
+                    <pc:Coords points="584,1222 642,1222 642,1261 584,1261"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>die</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b5ac47">
+                    <pc:Coords points="650,1219 766,1219 766,1263 650,1263"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>leber.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346496295_171">
+                    <pc:Coords points="868,1278 784,1278 784,1220 868,1220"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Jtē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346496295_170">
+                    <pc:Coords points="1019,1278 868,1278 868,1220 1019,1220"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>damit</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b5ac81">
+                    <pc:Coords points="1029,1225 1160,1225 1160,1285 1029,1285"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>geſch/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>sterckt dē magen|vnd die leber. Jtē damit geſch/</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_21" primaryLanguage="German">
+                <pc:Coords points="128,1261 1162,1261 1162,1344 128,1344"/>
+                <pc:Baseline points="128,1334 1162,1334"/>
+                <pc:Word id="word_1483346505936_173">
+                    <pc:Coords points="264,1315 128,1315 128,1268 264,1268"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>mirbt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346505935_172">
+                    <pc:Coords points="344,1315 264,1315 264,1268 344,1268"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>den</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346514232_175">
+                    <pc:Coords points="486,1326 352,1326 352,1269 486,1269"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bauch</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346514231_174">
+                    <pc:Coords points="556,1326 486,1326 486,1269 556,1269"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>der</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b7ac37">
+                    <pc:Coords points="563,1271 724,1271 724,1333 563,1333"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>frauwē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b7ac51">
+                    <pc:Coords points="740,1269 840,1269 840,1325 740,1325"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>tribt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346523280_177">
+                    <pc:Coords points="909,1341 848,1341 848,1280 909,1280"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>uß</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346523279_176">
+                    <pc:Coords points="961,1341 909,1341 909,1280 961,1280"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b7ac73">
+                    <pc:Coords points="969,1286 1039,1286 1039,1330 969,1330"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>tod</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b7ac81">
+                    <pc:Coords points="1048,1280 1162,1280 1162,1332 1048,1332"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>kindt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>mirbt den bauch der frauwē tribt uß dz tod kindt</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_22" primaryLanguage="German">
+                <pc:Coords points="128,1321 1157,1321 1157,1399 128,1399"/>
+                <pc:Baseline points="128,1390 1157,1390"/>
+                <pc:Word id="w_w1aab1b1b2b9b9ab1">
+                    <pc:Coords points="129,1322 238,1322 238,1374 129,1374"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>auch</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b9ac11">
+                    <pc:Coords points="243,1324 376,1324 376,1381 243,1381"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>macht</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9b9ac23">
+                    <pc:Coords points="384,1339 426,1339 426,1371 384,1371"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>es</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346533560_179">
+                    <pc:Coords points="653,1394 437,1394 437,1329 653,1329"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſchwitzen.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346547016_181">
+                    <pc:Coords points="834,1394 653,1394 653,1329 834,1329"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Pfersich</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346547015_180">
+                    <pc:Coords points="918,1394 834,1394 834,1329 918,1329"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>mit</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346555871_183">
+                    <pc:Coords points="1072,1398 931,1398 931,1341 1072,1341"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>waſſer</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346555871_182">
+                    <pc:Coords points="1157,1398 1072,1398 1072,1341 1157,1341"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>das</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>auch macht es ſchwitzen. Pfersich mit waſſer das</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_23" primaryLanguage="German">
+                <pc:Coords points="129,1377 1155,1377 1155,1452 129,1452"/>
+                <pc:Baseline points="129,1446 1155,1446"/>
+                <pc:Word id="word_1483346565695_185">
+                    <pc:Coords points="216,1439 129,1439 129,1377 216,1377"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſaft</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346568951_187">
+                    <pc:Coords points="306,1439 216,1439 216,1377 306,1377"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>auß</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346568951_186">
+                    <pc:Coords points="493,1439 306,1439 306,1377 493,1377"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>getruckt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c11ac33">
+                    <pc:Coords points="502,1393 591,1393 591,1433 502,1433"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c11ac41">
+                    <pc:Coords points="598,1391 658,1391 658,1436 598,1436"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>da</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c11ac47">
+                    <pc:Coords points="668,1403 754,1403 754,1434 668,1434"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>von</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c11ac55">
+                    <pc:Coords points="764,1403 960,1403 960,1448 764,1448"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>morgens</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c11b1b1">
+                    <pc:Coords points="974,1396 1155,1396 1155,1452 974,1452"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>genoſſen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ſaft auß getruckt vnd da von morgens genoſſen</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_24" primaryLanguage="German">
+                <pc:Coords points="127,1428 1093,1428 1093,1511 127,1511"/>
+                <pc:Baseline points="127,1498 1093,1498"/>
+                <pc:Word id="w_w1aab1b1b2b9c13ab1">
+                    <pc:Coords points="127,1428 174,1428 174,1485 127,1485"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>iſt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c13ab7">
+                    <pc:Coords points="176,1438 256,1438 256,1480 176,1480"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gůt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c13b2b1">
+                    <pc:Coords points="265,1440 390,1440 390,1486 265,1486"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>wider</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c13b2c13">
+                    <pc:Coords points="397,1441 446,1441 446,1493 397,1493"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c13b2c25">
+                    <pc:Coords points="450,1440 586,1443 586,1488 455,1487"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>haubt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c13b2c33">
+                    <pc:Coords points="596,1459 676,1459 676,1491 596,1491"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>wee</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c13b2c41">
+                    <pc:Coords points="687,1447 826,1447 826,1505 687,1505"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſpricht</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2b9c13b2c57">
+                    <pc:Coords points="835,1453 1092,1453 1092,1508 835,1508"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Platearius.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>iſt gůt wider dz haubt wee ſpricht Platearius.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>Was den durſt. nem. Borberis.
+Jtem neüß pferſich ſo benimpt er den durſt vnd
+sterckt dē magen|vnd die leber. Jtē damit geſch/
+mirbt den bauch der frauwē tribt uß dz tod kindt
+auch macht es ſchwitzen. Pfersich mit waſſer das
+ſaft auß getruckt vnd da von morgens genoſſen
+iſt gůt wider dz haubt wee ſpricht Platearius.</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r_1_6" type="paragraph">
+            <pc:Coords points="120,1490 1152,1490 1152,1791 120,1791"/>
+            <pc:TextLine id="tl_25" primaryLanguage="German">
+                <pc:Coords points="256,1491 1150,1491 1150,1560 256,1560"/>
+                <pc:Baseline points="256,1559 1150,1559"/>
+                <pc:Word id="word_1483346590375_189">
+                    <pc:Coords points="349,1550 256,1550 256,1491 349,1491"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Fur</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346593584_191">
+                    <pc:Coords points="409,1550 349,1550 349,1491 409,1491"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346593583_190">
+                    <pc:Coords points="628,1550 409,1550 409,1491 628,1491"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſchwidlen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346617752_193">
+                    <pc:Coords points="703,1555 643,1555 643,1500 703,1500"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>im</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346617751_192">
+                    <pc:Coords points="853,1555 703,1555 703,1500 853,1500"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>haubt.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b1b1b1">
+                    <pc:Coords points="945,1505 1149,1505 1149,1557 945,1557"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Boꝛrago.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Fur dz ſchwidlen im haubt. Boꝛrago.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_26" primaryLanguage="German">
+                <pc:Coords points="125,1543 1151,1543 1151,1619 125,1619"/>
+                <pc:Baseline points="125,1607 1151,1607"/>
+                <pc:Word id="w_w1aab1b1b2c11b3ab1">
+                    <pc:Coords points="126,1543 205,1543 205,1596 126,1596"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Jtē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346633240_195">
+                    <pc:Coords points="303,1600 213,1600 213,1545 303,1545"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>nim</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346633239_194">
+                    <pc:Coords points="353,1600 303,1600 303,1545 353,1545"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b3b1b1">
+                    <pc:Coords points="363,1550 447,1550 447,1601 363,1601"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſaft</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b3b2b1">
+                    <pc:Coords points="456,1556 543,1556 543,1597 456,1597"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>von</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b3b3b1">
+                    <pc:Coords points="548,1555 596,1555 596,1598 548,1598"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b3b4b1">
+                    <pc:Coords points="604,1555 732,1555 732,1599 604,1599"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>kraut</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346657880_197">
+                    <pc:Coords points="888,1604 740,1604 740,1557 888,1557"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>boꝛrich</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346657879_196">
+                    <pc:Coords points="948,1604 888,1604 888,1557 948,1557"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vñ</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b3b5b1">
+                    <pc:Coords points="958,1559 1089,1559 1089,1618 958,1618"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>miſch</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b3b6b1">
+                    <pc:Coords points="1101,1564 1151,1564 1151,1619 1101,1619"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Jtē nim dz ſaft von dē kraut boꝛrich vñ miſch dz</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_27" primaryLanguage="German">
+                <pc:Coords points="124,1598 1151,1598 1151,1674 124,1674"/>
+                <pc:Baseline points="124,1667 1151,1667"/>
+                <pc:Word id="w_w1aab1b1b2c11b5ab1">
+                    <pc:Coords points="124,1609 198,1609 198,1651 124,1651"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>mit</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b5b1b1">
+                    <pc:Coords points="206,1600 334,1600 334,1651 206,1651"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>zucker</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b5b1c15">
+                    <pc:Coords points="347,1604 438,1604 438,1646 347,1646"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b5b1c23">
+                    <pc:Coords points="447,1604 597,1604 597,1649 447,1649"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>trincks</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b5b2b1">
+                    <pc:Coords points="612,1608 659,1608 659,1657 612,1657"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b5b3b1">
+                    <pc:Coords points="669,1608 765,1608 765,1662 669,1662"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>hilft</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b5b3c13">
+                    <pc:Coords points="773,1609 839,1609 839,1666 773,1666"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>für</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b5b3c21">
+                    <pc:Coords points="846,1608 893,1608 893,1657 846,1657"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b5b3c27">
+                    <pc:Coords points="911,1610 1116,1610 1116,1671 911,1671"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſchwindel</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b5b3c45">
+                    <pc:Coords points="1133,1625 1150,1625 1150,1669 1133,1669"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>i</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>mit zucker vnd trincks dz hilft für dē ſchwindel i</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_28" primaryLanguage="German">
+                <pc:Coords points="122,1646 1145,1646 1145,1729 122,1729"/>
+                <pc:Baseline points="122,1720 1145,1720"/>
+                <pc:Word id="w_w1aab1b1b2c11b7ab1">
+                    <pc:Coords points="122,1646 260,1646 260,1699 122,1699"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>haubt.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346673287_199">
+                    <pc:Coords points="364,1717 278,1717 278,1653 364,1653"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Die</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346678104_201">
+                    <pc:Coords points="513,1717 364,1717 364,1653 513,1653"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>blůmē</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346681992_203">
+                    <pc:Coords points="593,1717 513,1717 513,1653 593,1653"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>roh</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346681991_202">
+                    <pc:Coords points="740,1717 593,1717 593,1653 740,1653"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>geeſſen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346709455_205">
+                    <pc:Coords points="938,1727 757,1727 757,1665 938,1665"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>machent</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346709455_204">
+                    <pc:Coords points="1023,1727 938,1727 938,1665 1023,1665"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gůt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b7ac73">
+                    <pc:Coords points="1037,1676 1144,1676 1144,1722 1037,1722"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>blůt.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>haubt. Die blůmē roh geeſſen machent gůt blůt.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_29" primaryLanguage="German">
+                <pc:Coords points="121,1706 1145,1706 1145,1790 121,1790"/>
+                <pc:Baseline points="121,1779 1145,1779"/>
+                <pc:Word id="w_w1aab1b1b2c11b9ab1">
+                    <pc:Coords points="121,1706 219,1706 219,1764 121,1764"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Jtez</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346728456_207">
+                    <pc:Coords points="293,1765 226,1765 226,1710 293,1710"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>leg</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346728455_206">
+                    <pc:Coords points="359,1765 293,1765 293,1710 359,1710"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>die</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b9b2b1">
+                    <pc:Coords points="366,1714 536,1714 536,1766 366,1766"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>blůmen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b9b3b1">
+                    <pc:Coords points="543,1721 589,1721 589,1764 543,1764"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>in</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b9b5b1">
+                    <pc:Coords points="597,1715 730,1715 730,1769 597,1769"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>baum</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b9b5c11">
+                    <pc:Coords points="740,1722 786,1722 786,1769 740,1769"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>oͤl</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b9b5c17">
+                    <pc:Coords points="794,1729 856,1729 856,1778 794,1778"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vñ</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346740191_209">
+                    <pc:Coords points="993,1789 864,1789 864,1728 993,1728"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſtreich</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1483346740191_208">
+                    <pc:Coords points="1043,1789 993,1789 993,1728 1043,1728"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dz</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c11b9b7b1">
+                    <pc:Coords points="1050,1736 1145,1736 1145,1776 1050,1776"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>über</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Jtez leg die blůmen in baum oͤl vñ ſtreich dz über</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>Fur dz ſchwidlen im haubt. Boꝛrago.
+Jtē nim dz ſaft von dē kraut boꝛrich vñ miſch dz
+mit zucker vnd trincks dz hilft für dē ſchwindel i
+haubt. Die blůmē roh geeſſen machent gůt blůt.
+Jtez leg die blůmen in baum oͤl vñ ſtreich dz über</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r_1_7" type="signature-mark">
+            <pc:Coords points="1059,1786 1137,1786 1137,1845 1059,1845"/>
+            <pc:TextLine id="tl_30" primaryLanguage="German">
+                <pc:Coords points="1060,1787 1136,1787 1136,1844 1060,1844"/>
+                <pc:Baseline points="1060,1844 1136,1844"/>
+                <pc:Word id="w_w1aab1b1b2c13b1ab1">
+                    <pc:Coords points="1061,1787 1086,1787 1086,1844 1061,1844"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>b</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b1b2c13b1b1b1">
+                    <pc:Coords points="1100,1800 1136,1800 1136,1844 1100,1844"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>j.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>b j.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>b j.</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+    </pc:Page>
+</pc:PcGts>

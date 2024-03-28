@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <pc:Metadata>
+        <pc:Creator>OCR-D</pc:Creator>
+        <pc:Created>2016-09-20T15:43:05</pc:Created>
+        <pc:LastChange>2019-11-13T12:05:24</pc:LastChange>
+    </pc:Metadata>
+    <pc:Page imageFilename="OCR-D-IMG/OCR-D-IMG_0002.tif" imageWidth="1000" imageHeight="1545" imageXResolution="133." imageYResolution="133." type="content">
+        <pc:Border>
+            <pc:Coords points="198,62 912,62 912,1374 198,1374"/>
+        </pc:Border>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+                <pc:RegionRefIndexed index="0" regionRef="TextRegion_1479488109419_43"/>
+                <pc:RegionRefIndexed index="1" regionRef="r_3_1"/>
+                <pc:RegionRefIndexed index="2" regionRef="r_3_2"/>
+                <pc:RegionRefIndexed index="3" regionRef="region_1479488010293_42"/>
+                <pc:RegionRefIndexed index="4" regionRef="region_1475152887307_28"/>
+                <pc:RegionRefIndexed index="5" regionRef="region_1479488123137_44"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:Relations>
+            <pc:Relation id="rel1" type="join">
+                <pc:SourceRegionRef regionRef="region_1479488010293_42"/>
+                <pc:TargetRegionRef regionRef="region_1475152887307_28"/>
+            </pc:Relation>
+        </pc:Relations>
+        <pc:TextRegion id="TextRegion_1479488109419_43" type="heading" primaryLanguage="German" secondaryLanguage="Latin">
+            <pc:Coords points="522,66 551,66 695,106 844,204 844,276 742,329 626,367 442,367 331,329 226,276 226,204 373,106"/>
+            <pc:TextLine id="tl_1" primaryLanguage="German">
+                <pc:Coords points="523,67 550,67 550,88 523,88"/>
+                <pc:Baseline points="523,89 550,89"/>
+                <pc:Word id="w_w1aab1b1b2b1b1ab1" language="German">
+                    <pc:Coords points="523,67 550,67 550,88 523,88"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>1.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>1.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_2" primaryLanguage="German">
+                <pc:Coords points="374,107 694,107 694,159 374,159"/>
+                <pc:Baseline points="374,150 694,150"/>
+                <pc:Word id="w_w1aab1b3b2b1b1ab1" language="German">
+                    <pc:Coords points="374,107 694,107 694,159 374,159"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Beutelſchneider/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Beutelſchneider/</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_3" primaryLanguage="German">
+                <pc:Coords points="478,161 596,161 596,198 478,198"/>
+                <pc:Baseline points="478,191 596,191"/>
+                <pc:Word id="w_w1aab1b3b2b3b1ab1" language="German">
+                    <pc:Coords points="478,161 546,161 546,192 478,192"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Das</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b3b2b3b1ab9" language="German">
+                    <pc:Coords points="554,164 596,164 596,198 554,198"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>iſt/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Das iſt/</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_4" primaryLanguage="German">
+                <pc:Coords points="227,205 843,205 843,275 227,275"/>
+                <pc:Baseline points="227,263 843,263"/>
+                <pc:Word id="w_w1aab1b3b2b5b1ab1" language="German">
+                    <pc:Coords points="227,205 516,205 516,273 227,273"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Allgemeine</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b3b2b5b1ac23" language="German">
+                    <pc:Coords points="528,208 843,208 843,275 528,275"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Verzeichnuß</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Allgemeine Verzeichnuß</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_5" primaryLanguage="German">
+                <pc:Coords points="332,276 741,276 741,328 332,328"/>
+                <pc:Baseline points="332,322 741,322"/>
+                <pc:Word id="w_w1aab1b3b2b7b1ab1" language="German">
+                    <pc:Coords points="332,279 413,279 413,322 332,322"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>uͤber</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b3b2b7b1ac11" language="German">
+                    <pc:Coords points="424,282 474,282 474,320 424,320"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>die</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b3b2b7b1ac19" language="German">
+                    <pc:Coords points="484,276 660,276 660,328 484,328"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Hiſtorien</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b3b2b7b1ac39" language="German">
+                    <pc:Coords points="670,289 741,289 741,321 670,321"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>von</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>uͤber die Hiſtorien von</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_6" primaryLanguage="German">
+                <pc:Coords points="443,329 625,329 625,366 443,366"/>
+                <pc:Baseline points="443,366 625,366"/>
+                <pc:Word id="w_w1aab1b3b2b9b1ab1" language="German">
+                    <pc:Coords points="443,338 495,338 495,366 443,366"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>den</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b3b2b9b1ab7" language="German">
+                    <pc:Coords points="503,329 625,329 625,366 503,366"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Dieben.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>den Dieben.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>1.
+Beutelſchneider/
+Das iſt/
+Allgemeine Verzeichnuß
+uͤber die Hiſtorien von
+den Dieben.</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r_3_1" type="heading" primaryLanguage="German" secondaryLanguage="Latin">
+            <pc:Coords points="385,398 685,398 685,450 385,450"/>
+            <pc:TextLine id="tl_7" primaryLanguage="German">
+                <pc:Coords points="386,399 684,399 684,452 386,452"/>
+                <pc:Baseline points="386,443 684,443"/>
+                <pc:Word id="word_1479488259060_53" language="German">
+                    <pc:Coords points="487,452 386,452 386,399 487,399"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Das</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488259058_52" language="German">
+                    <pc:Coords points="526,452 487,452 487,399 526,399"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>I.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488257922_50" language="German">
+                    <pc:Coords points="684,452 526,452 526,399 684,399"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Capitel.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Das I. Capitel.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>Das I. Capitel.</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r_3_2" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+            <pc:Coords points="213,454 872,454 872,679 213,679"/>
+            <pc:TextLine id="tl_8" primaryLanguage="German">
+                <pc:Coords points="214,451 874,451 874,497 214,497"/>
+                <pc:Baseline points="214,485 801,485"/>
+                <pc:Word id="w_w1aab1b5b2b3b1ab1" language="German">
+                    <pc:Coords points="214,454 291,454 291,488 214,488"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Von</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b1ab9" language="German">
+                    <pc:Coords points="297,458 368,458 368,487 297,487"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dem</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b1b1b1" language="German">
+                    <pc:Coords points="383,455 618,455 618,497 383,497"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>erſchrecklichen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b1b1c33" language="German">
+                    <pc:Coords points="626,454 727,454 727,487 626,487"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Leben</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b1b3b1" language="German">
+                    <pc:Coords points="744,451 801,451 801,496 744,496"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>deß</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488336258_54">
+                    <pc:Coords points="803,448 873,448 873,491 803,491"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ca-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Von dem erſchrecklichen Leben deß Ca-</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_9" primaryLanguage="German">
+                <pc:Coords points="257,497 869,497 869,544 257,544"/>
+                <pc:Baseline points="257,529 869,529"/>
+                <pc:Word id="w_w1aab1b5b2b3b3ab1" language="German">
+                    <pc:Coords points="257,503 394,503 394,544 257,544"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>pitainen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488367218_56" language="German">
+                    <pc:Coords points="540,542 402,542 402,500 540,500"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Lycaon/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488367218_55" language="German">
+                    <pc:Coords points="590,542 540,542 540,500 590,500"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>als</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b3ac39" language="German">
+                    <pc:Coords points="596,499 652,499 652,541 596,541"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>deß</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b3ac53" language="German">
+                    <pc:Coords points="658,496 812,497 812,538 658,536"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Oberſten</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b3ac69" language="German">
+                    <pc:Coords points="820,499 869,499 869,529 820,529"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>der</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>pitainen Lycaon/ als deß Oberſten der</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_10" primaryLanguage="German">
+                <pc:Coords points="259,541 870,541 870,588 259,588"/>
+                <pc:Baseline points="259,576 870,576"/>
+                <pc:Word id="w_w1aab1b5b2b3b5ab1" language="German">
+                    <pc:Coords points="259,544 376,544 376,578 259,578"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Dieben</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b5ac15" language="German">
+                    <pc:Coords points="383,550 393,550 393,582 383,582"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b5ac19" language="German">
+                    <pc:Coords points="404,546 480,546 480,580 404,580"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Von</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b5ac27" language="German">
+                    <pc:Coords points="486,549 591,549 591,588 486,588"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſeinem</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b5ac41" language="German">
+                    <pc:Coords points="600,542 780,542 780,587 600,587"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Geſchlecht</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b5ac63" language="German">
+                    <pc:Coords points="785,541 870,541 870,575 785,575"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Dieben / Von ſeinem Geſchlecht vnnd</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_11" primaryLanguage="German">
+                <pc:Coords points="258,588 871,588 871,631 258,631"/>
+                <pc:Baseline points="258,621 871,621"/>
+                <pc:Word id="w_w1aab1b5b2b3b7ab1" language="German">
+                    <pc:Coords points="258,589 464,589 464,629 258,629"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Herkommen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1474465245183_27">
+                    <pc:Coords points="479,628 468,628 468,589 479,589"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b7ac21" language="German">
+                    <pc:Coords points="486,593 569,593 569,624 486,624"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b7ac31" language="German">
+                    <pc:Coords points="576,594 635,594 635,623 576,623"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>wie</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b7ac39" language="German">
+                    <pc:Coords points="641,600 670,600 670,621 641,621"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>er</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b7ac45" language="German">
+                    <pc:Coords points="678,588 736,588 736,631 678,631"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſich</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b7ac55" language="German">
+                    <pc:Coords points="743,592 774,592 774,620 743,620"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>in</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b7ac61" language="German">
+                    <pc:Coords points="781,588 871,588 871,629 781,629"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſeiner</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Herkommen / vnnd wie er ſich in ſeiner</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_12" primaryLanguage="German">
+                <pc:Coords points="259,635 637,635 637,678 259,678"/>
+                <pc:Baseline points="259,669 637,669"/>
+                <pc:Word id="w_w1aab1b5b2b3b9ab1" language="German">
+                    <pc:Coords points="259,636 404,636 404,678 259,678"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Jugendt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b9ac17" language="German">
+                    <pc:Coords points="409,635 465,635 465,677 409,677"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>hat</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b3b9ac25" language="German">
+                    <pc:Coords points="471,637 637,637 637,678 471,678"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>verhalten.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Jugendt hat verhalten.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>Von dem erſchrecklichen Leben deß Ca-
+pitainen Lycaon/ als deß Oberſten der
+Dieben / Von ſeinem Geſchlecht vnnd
+Herkommen / vnnd wie er ſich in ſeiner
+Jugendt hat verhalten.</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_1479488010293_42" type="drop-capital" primaryLanguage="German" secondaryLanguage="Latin">
+            <pc:Coords points="216,696 534,696 534,1001 216,1001"/>
+            <pc:TextLine id="line_1479488139522_45">
+                <pc:Coords points="207,697 534,697 534,1003 207,1003"/>
+                <pc:Baseline points="214,996 528,996"/>
+                <pc:Word id="word_1479488198347_47">
+                    <pc:Coords points="206,694 532,694 532,1002 206,1002"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>W</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>W</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>W</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_1475152887307_28" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+            <pc:Coords points="534,1003 535,678 880,678 884,1081 883,1302 812,1312 223,1325 217,1283 217,1081 222,1009"/>
+            <pc:TextLine id="tl_13" primaryLanguage="German">
+                <pc:Coords points="536,679 875,679 875,720 536,720"/>
+                <pc:Baseline points="536,715 875,715"/>
+                <pc:Word id="w_w1aab1b5b2b5b1ab1" language="German">
+                    <pc:Coords points="536,686 608,686 608,720 536,720"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ann</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b1ab9" language="German">
+                    <pc:Coords points="626,689 668,689 668,717 626,717"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ein</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b1ac17" language="German">
+                    <pc:Coords points="684,679 807,679 807,719 684,719"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Menſch</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b1ac31" language="German">
+                    <pc:Coords points="821,683 875,683 875,711 821,711"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ein-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>Ann ein Menſch ein-</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_14" primaryLanguage="German">
+                <pc:Coords points="541,727 875,727 875,763 541,763"/>
+                <pc:Baseline points="541,754 875,754"/>
+                <pc:Word id="w_w1aab1b5b2b5b3ab1" language="German">
+                    <pc:Coords points="541,731 594,731 594,761 541,761"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>mal</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b3ab9" language="German">
+                    <pc:Coords points="607,729 728,729 728,763 607,763"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>anfanget</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b3ac27" language="German">
+                    <pc:Coords points="748,732 776,732 776,758 748,758"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>zu</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b3ac33" language="German">
+                    <pc:Coords points="792,727 875,727 875,755 792,755"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>raſen/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>mal anfanget zu raſen/</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_15" primaryLanguage="German">
+                <pc:Coords points="541,761 876,761 876,801 541,801"/>
+                <pc:Baseline points="541,793 876,793"/>
+                <pc:Word id="w_w1aab1b5b2b5b5ab1" language="German">
+                    <pc:Coords points="541,775 593,775 593,801 541,801"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b5ab9" language="German">
+                    <pc:Coords points="606,772 632,772 632,799 606,799"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>in</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b5ac15" language="German">
+                    <pc:Coords points="643,768 697,768 697,798 643,798"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ver</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b5ac23" language="German">
+                    <pc:Coords points="710,761 838,761 838,798 710,798"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>weifflung</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b5ac45" language="German">
+                    <pc:Coords points="847,769 876,769 876,796 847,796"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>zu</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>vnd in Ver weifflung zu</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_16" primaryLanguage="German">
+                <pc:Coords points="541,802 877,802 877,847 541,847"/>
+                <pc:Baseline points="541,831 877,831"/>
+                <pc:Word id="word_1479488453483_58" language="German">
+                    <pc:Coords points="668,847 541,847 541,811 668,811"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gerathen/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488453482_57" language="German">
+                    <pc:Coords points="724,847 668,847 668,811 724,811"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>oder</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b7ac29" language="German">
+                    <pc:Coords points="730,803 824,803 824,834 730,834"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>einmal</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b7ac43" language="German">
+                    <pc:Coords points="833,802 877,802 877,837 833,837"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>fol-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>gerathen/ oder einmal fol-</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_17" primaryLanguage="German">
+                <pc:Coords points="543,841 878,841 878,886 543,886"/>
+                <pc:Baseline points="543,870 878,870"/>
+                <pc:Word id="word_1479488471779_62" language="German">
+                    <pc:Coords points="595,886 543,886 543,856 595,856"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>get/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488471777_61" language="German">
+                    <pc:Coords points="639,886 595,886 595,856 639,856"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>wo</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488470366_59" language="German">
+                    <pc:Coords points="668,886 639,886 639,856 668,856"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>jn</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b9ac21" language="German">
+                    <pc:Coords points="677,846 723,846 723,881 677,881"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſein</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b9ac31" language="German">
+                    <pc:Coords points="732,846 812,846 812,874 732,874"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>blinde</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5b9ac43" language="German">
+                    <pc:Coords points="821,841 878,841 878,871 821,871"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Be-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>get/ wo jn ſein blinde Be-</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_18" primaryLanguage="German">
+                <pc:Coords points="545,882 878,882 878,926 545,926"/>
+                <pc:Baseline points="545,913 878,913"/>
+                <pc:Word id="w_w1aab1b5b2b5c11ab1" language="German">
+                    <pc:Coords points="545,892 625,892 625,926 545,926"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gierde</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488496017_64" language="German">
+                    <pc:Coords points="773,921 632,921 632,882 773,882"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>hinreiſſen/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488496015_63" language="German">
+                    <pc:Coords points="795,921 773,921 773,882 795,882"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſo</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5c11ac43" language="German">
+                    <pc:Coords points="803,884 846,884 846,915 803,915"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>laͤſt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b5c11ac53" language="German">
+                    <pc:Coords points="855,888 878,888 878,911 855,911"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>er</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>gierde hinreiſſen/ ſo laͤſt er</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_19" primaryLanguage="German">
+                <pc:Coords points="545,917 879,917 879,960 545,960"/>
+                <pc:Baseline points="545,952 879,952"/>
+                <pc:Word id="w_w1aab1b5b2b5c13ab1" language="German">
+                    <pc:Coords points="545,926 652,926 652,959 545,959"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>darnach</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488699219_68" language="German">
+                    <pc:Coords points="708,960 661,960 661,917 708,917"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>den</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488699218_67" language="German">
+                    <pc:Coords points="799,960 708,960 708,917 799,917"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Zaum</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488697386_65" language="German">
+                    <pc:Coords points="879,960 799,960 799,917 879,917"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſchieſ-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>darnach den Zaum ſchieſ-</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_20" primaryLanguage="German">
+                <pc:Coords points="535,962 877,962 877,1003 535,1003"/>
+                <pc:Baseline points="543,993 877,993"/>
+                <pc:Word id="w_w1aab1b5b2b7b1ac21" language="German">
+                    <pc:Coords points="541,970 583,969 583,1003 541,1003"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b7b1ac33" language="German">
+                    <pc:Coords points="593,968 673,968 673,1001 593,1001"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſeinen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b7b1ac47" language="German">
+                    <pc:Coords points="681,962 749,962 749,999 681,999"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>boͤſen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b7b1ac59" language="German">
+                    <pc:Coords points="757,965 877,965 877,991 757,991"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnoꝛden-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>ſen ſeinen boͤſen vnoꝛden-</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_21" primaryLanguage="German">
+                <pc:Coords points="219,999 880,999 880,1048 219,1048"/>
+                <pc:Baseline points="219,1036 880,1036"/>
+                <pc:Word id="w_w1aab1b5b2b9b1ab1" language="German">
+                    <pc:Coords points="219,1015 300,1015 300,1048 219,1048"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>lichen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b1ac15" language="German">
+                    <pc:Coords points="310,1010 380,1010 380,1046 310,1046"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>boͤſen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b1ac27" language="German">
+                    <pc:Coords points="391,1008 522,1008 522,1045 391,1045"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Affecten:</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b1ac47" language="German">
+                    <pc:Coords points="533,1006 583,1006 583,1039 533,1039"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Da</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b1ac53" language="German">
+                    <pc:Coords points="590,1008 634,1008 634,1037 590,1037"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>kan</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b1ac61" language="German">
+                    <pc:Coords points="650,1013 712,1013 712,1035 650,1035"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>man</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b1ac69" language="German">
+                    <pc:Coords points="721,1007 748,1007 748,1032 721,1032"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>in</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b1ac75" language="German">
+                    <pc:Coords points="756,1006 796,1006 796,1031 756,1031"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>der</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b1ac83" language="German">
+                    <pc:Coords points="804,999 880,999 880,1029 804,1029"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Welt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>lichen boͤſen Affecten: Da kan man in der Welt</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_22" primaryLanguage="German">
+                <pc:Coords points="219,1041 880,1041 880,1086 219,1086"/>
+                <pc:Baseline points="219,1072 880,1072"/>
+                <pc:Word id="w_w1aab1b5b2b9b3ab1" language="German">
+                    <pc:Coords points="219,1056 359,1056 359,1086 219,1086"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>niemands</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b3ac19" language="German">
+                    <pc:Coords points="367,1047 539,1047 539,1085 367,1085"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>uͤbermuͤtiger</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b3ac43" language="German">
+                    <pc:Coords points="547,1052 599,1052 599,1077 547,1077"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b3ac51" language="German">
+                    <pc:Coords points="608,1044 679,1044 679,1081 608,1081"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>aͤrger</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b3ac63" language="German">
+                    <pc:Coords points="687,1052 695,1052 695,1074 687,1074"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488750494_70" language="German">
+                    <pc:Coords points="754,1073 708,1073 708,1044 754,1044"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>als</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488750491_69" language="German">
+                    <pc:Coords points="827,1073 754,1073 754,1044 827,1044"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>einen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2b9b3ac85" language="German">
+                    <pc:Coords points="838,1041 880,1041 880,1072 838,1072"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſol-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>niemands uͤbermuͤtiger vnd aͤrger / als einen ſol-</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_23" primaryLanguage="German">
+                <pc:Coords points="218,1082 881,1082 881,1127 218,1127"/>
+                <pc:Baseline points="218,1115 881,1115"/>
+                <pc:Word id="w_w1aab1b5b2c11b1ab1" language="German">
+                    <pc:Coords points="218,1096 278,1096 278,1127 218,1127"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>chen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488764453_72" language="German">
+                    <pc:Coords points="440,1127 286,1127 286,1089 440,1089"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Menſchen/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488764450_71" language="German">
+                    <pc:Coords points="526,1127 440,1127 440,1089 526,1089"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſehen:</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b1ac45" language="German">
+                    <pc:Coords points="533,1086 621,1086 621,1118 533,1118"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Dann</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b1ac55" language="German">
+                    <pc:Coords points="631,1088 670,1088 670,1114 631,1114"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ein</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b1ac63" language="German">
+                    <pc:Coords points="677,1082 765,1082 765,1119 677,1119"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſelcher</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b1ac79" language="German">
+                    <pc:Coords points="772,1082 881,1082 881,1112 772,1112"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Menſch</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>chen Menſchen/ ſehen: Dann ein ſelcher Menſch</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_24" primaryLanguage="German">
+                <pc:Coords points="220,1121 882,1121 882,1166 220,1166"/>
+                <pc:Baseline points="220,1154 882,1154"/>
+                <pc:Word id="w_w1aab1b5b2c11b3ab1" language="German">
+                    <pc:Coords points="220,1138 288,1138 288,1166 220,1166"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>trotzt</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b3ac15" language="German">
+                    <pc:Coords points="295,1136 410,1136 410,1163 295,1163"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>alsdann</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b3ac31" language="German">
+                    <pc:Coords points="420,1134 465,1134 465,1160 420,1160"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>den</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488788846_74" language="German">
+                    <pc:Coords points="607,1162 475,1162 475,1127 607,1127"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Himmel/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488788843_73" language="German">
+                    <pc:Coords points="631,1162 607,1162 607,1127 631,1127"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>er</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488799428_76" language="German">
+                    <pc:Coords points="810,1157 639,1157 639,1121 810,1121"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>verſchmaͤhet</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488799426_75" language="German">
+                    <pc:Coords points="882,1157 810,1157 810,1121 882,1121"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Got-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>trotzt alsdann den Himmel/ er verſchmaͤhet Got-</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_25" primaryLanguage="German">
+                <pc:Coords points="219,1160 882,1160 882,1206 219,1206"/>
+                <pc:Baseline points="219,1194 882,1194"/>
+                <pc:Word id="w_w1aab1b5b2c11b5ab1" language="German">
+                    <pc:Coords points="219,1178 259,1178 259,1201 219,1201"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>tes</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b5ab9" language="German">
+                    <pc:Coords points="267,1171 422,1171 422,1206 267,1206"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Schickung</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b5ac29" language="German">
+                    <pc:Coords points="433,1170 504,1170 504,1199 433,1199"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b5ac39" language="German">
+                    <pc:Coords points="513,1165 650,1165 650,1198 513,1198"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Ordnung</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b5ac57" language="German">
+                    <pc:Coords points="657,1170 665,1170 665,1192 657,1192"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b5ac61" language="German">
+                    <pc:Coords points="674,1161 713,1161 713,1192 674,1192"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Er</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b5ac67" language="German">
+                    <pc:Coords points="722,1162 821,1162 821,1197 722,1197"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>glaubet</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b5ac83" language="German">
+                    <pc:Coords points="829,1160 882,1160 882,1188 829,1188"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>tes Schickung vnnd Ordnung / Er glaubet vnd</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_26" primaryLanguage="German">
+                <pc:Coords points="219,1199 886,1199 886,1244 219,1244"/>
+                <pc:Baseline points="219,1235 882,1235"/>
+                <pc:Word id="w_w1aab1b5b2c11b7ab1" language="German">
+                    <pc:Coords points="219,1211 292,1211 292,1240 219,1240"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>bildet</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b7ac15" language="German">
+                    <pc:Coords points="301,1212 354,1212 354,1244 301,1244"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>jhm</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b7ac23" language="German">
+                    <pc:Coords points="362,1213 402,1213 402,1241 362,1241"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ein</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b7ac31" language="German">
+                    <pc:Coords points="411,1217 419,1217 419,1239 411,1239"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b7ac35" language="German">
+                    <pc:Coords points="433,1212 470,1212 470,1239 433,1239"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>die</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b7ac43" language="German">
+                    <pc:Coords points="481,1205 583,1205 583,1240 481,1240"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Geſtirn</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b7ac59" language="German">
+                    <pc:Coords points="592,1211 635,1211 635,1234 592,1234"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>am</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b7ac65" language="German">
+                    <pc:Coords points="645,1202 734,1202 734,1238 645,1238"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Himel</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b7ac77" language="German">
+                    <pc:Coords points="743,1199 838,1199 838,1234 743,1234"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>muͤſſen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479488843603_77">
+                    <pc:Coords points="842,1233 883,1233 883,1196 842,1196"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>jm</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>bildet jhm ein / die Geſtirn am Himel muͤſſen jm</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_27" primaryLanguage="German">
+                <pc:Coords points="219,1241 883,1241 883,1282 219,1282"/>
+                <pc:Baseline points="219,1272 883,1272"/>
+                <pc:Word id="w_w1aab1b5b2c11b9ab1" language="German">
+                    <pc:Coords points="219,1249 283,1249 283,1281 219,1281"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>nach</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b9ac11" language="German">
+                    <pc:Coords points="291,1249 383,1249 383,1282 291,1282"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſeinem</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b9ac25" language="German">
+                    <pc:Coords points="395,1247 479,1247 479,1282 395,1282"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Kopff</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b9ac37" language="German">
+                    <pc:Coords points="486,1245 562,1245 562,1280 486,1280"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>gehen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b9ac49" language="German">
+                    <pc:Coords points="572,1248 625,1248 625,1273 572,1273"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b9ac57" language="German">
+                    <pc:Coords points="634,1244 756,1244 756,1277 634,1277"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>operieren</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b9ac77" language="German">
+                    <pc:Coords points="766,1246 775,1246 775,1269 766,1269"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b9ac81" language="German">
+                    <pc:Coords points="781,1243 808,1243 808,1267 781,1267"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>es</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c11b9ac87" language="German">
+                    <pc:Coords points="818,1241 883,1241 883,1261 848,1261 848,1265 818,1265"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>dun-</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>nach ſeinem Kopff gehen vnd operieren / es dun-</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="tl_28" primaryLanguage="German">
+                <pc:Coords points="224,1280 886,1280 886,1324 224,1324"/>
+                <pc:Baseline points="224,1315 883,1315"/>
+                <pc:Word id="word_1479489262133_80" language="German">
+                    <pc:Coords points="275,1324 224,1324 224,1288 275,1288"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>cket</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479489262131_79" language="German">
+                    <pc:Coords points="323,1324 275,1324 275,1288 323,1288"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>jhn</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c13b1ac17" language="German">
+                    <pc:Coords points="331,1291 367,1291 367,1318 331,1318"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>die</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c13b1ac25" language="German">
+                    <pc:Coords points="375,1287 443,1287 443,1319 375,1319"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Erde</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c13b1ac35" language="German">
+                    <pc:Coords points="451,1288 487,1288 487,1324 451,1324"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſey</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c13b1ac43" language="German">
+                    <pc:Coords points="496,1284 564,1284 564,1319 496,1319"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>nicht</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c13b1ac55" language="German">
+                    <pc:Coords points="573,1284 649,1284 649,1318 573,1318"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>werth</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c13b1ac67" language="German">
+                    <pc:Coords points="660,1289 669,1289 669,1314 660,1314"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>/</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c13b1ac71" language="German">
+                    <pc:Coords points="678,1284 725,1284 725,1316 678,1316"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>daß</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c13b1ac79" language="German">
+                    <pc:Coords points="734,1280 762,1280 762,1314 734,1314"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſie</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w_w1aab1b5b2c13b1b1b1" language="German">
+                    <pc:Coords points="770,1284 814,1284 814,1312 770,1312"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>jhn</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="word_1479489249963_78">
+                    <pc:Coords points="822,1272 888,1272 888,1307 822,1307"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>ſolte</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>cket jhn die Erde ſey nicht werth / daß ſie jhn ſolte</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>Ann ein Menſch ein-
+mal anfanget zu raſen/
+vnd in Ver weifflung zu
+gerathen/ oder einmal fol-
+get/ wo jn ſein blinde Be-
+gierde hinreiſſen/ ſo laͤſt er
+darnach den Zaum ſchieſ-
+ſen ſeinen boͤſen vnoꝛden-
+lichen boͤſen Affecten: Da kan man in der Welt
+niemands uͤbermuͤtiger vnd aͤrger / als einen ſol-
+chen Menſchen/ ſehen: Dann ein ſelcher Menſch
+trotzt alsdann den Himmel/ er verſchmaͤhet Got-
+tes Schickung vnnd Ordnung / Er glaubet vnd
+bildet jhm ein / die Geſtirn am Himel muͤſſen jm
+nach ſeinem Kopff gehen vnd operieren / es dun-
+cket jhn die Erde ſey nicht werth / daß ſie jhn ſolte</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_1479488123137_44" type="catch-word" primaryLanguage="German" secondaryLanguage="Latin">
+            <pc:Coords points="787,1354 889,1354 889,1316 829,1316 786,1318"/>
+            <pc:TextLine id="line_1479488144466_46">
+                <pc:Coords points="789,1354 888,1354 888,1317 789,1317"/>
+                <pc:Baseline points="793,1347 885,1342"/>
+                <pc:Word id="word_1479488208578_48">
+                    <pc:Coords points="788,1351 888,1351 888,1312 788,1312"/>
+                    <pc:TextEquiv>
+                        <pc:Unicode>tragen</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv>
+                    <pc:Unicode>tragen</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>tragen</pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:SeparatorRegion id="r_8">
+            <pc:Coords points="213,380 870,380 870,391 213,391"/>
+        </pc:SeparatorRegion>
+    </pc:Page>
+</pc:PcGts>

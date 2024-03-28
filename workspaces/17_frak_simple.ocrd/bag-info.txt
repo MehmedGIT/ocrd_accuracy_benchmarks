@@ -1,0 +1,6 @@
+Bag-Software-Agent: ocrd/core 2.36.0 (bagit.py 1.8.1, bagit_profile 1.3.1) [cmdline: "/home/michelleweidling/.local/bin/ocrd zip bag -d 17_frak_simple/ --id 17_frak_simple/ -t 17_frak_simple//METADATA.yml"]
+BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
+Bagging-Date: 2022-12-05 11:21:36.888018
+Ocrd-Identifier: 17_frak_simple/
+Ocrd-Manifestation-Depth: partial
+Payload-Oxum: 14669347.13
